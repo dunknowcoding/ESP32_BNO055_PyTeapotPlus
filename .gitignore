@@ -1,0 +1,7 @@
+*.obj
+build
+README.org
+*.bin
+.vscode
+*.json
+sketch.yaml.disabled
