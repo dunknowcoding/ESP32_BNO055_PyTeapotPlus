@@ -6,13 +6,12 @@ The complete open-source code for testing BNO055 9-Axis absolute orientation IMU
 
 ## In this Repo
 
-:white_check_mark: **PyTeapotPlus** - Improved pythonic visualization and data receiver for IMU sensors based on [PyTeapot](https://github.com/thecountoftuscany/PyTeapot-Quaternion-Euler-cube-rotation)
+- :white_check_mark: **PyTeapotPlus** - Improved pythonic visualization and data receiver for IMU sensors based on [PyTeapot](https://github.com/thecountoftuscany/PyTeapot-Quaternion-Euler-cube-rotation)
+- :white_check_mark: **BNO055 support** - Arduino coding for BNO055 calibration and Wireless/Serial communication with PyTeapotPlus
 
-:white_check_mark: **BNO055 support** - Arduino coding for BNO055 calibration and Wireless/Serial communication with PyTeapotPlus
+- :white_check_mark: **EEPROM support** - Calibration data saved to AT24C256, other AT24CXX chips can be easily implemented
 
-:white_check_mark: **EEPROM support** - Calibration data saved to AT24C256, other AT24CXX chips can be easily implemented
-
-:white_check_mark: **ESP32 MCU support** - Generic ESP32, ESP32-S3, ESP32-C3/C6 etc. with WiFi support
+- :white_check_mark: **ESP32 MCU support** - Generic ESP32, ESP32-S3, ESP32-C3/C6 etc. with WiFi support
 
 ## Dependences
 
