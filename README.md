@@ -2,7 +2,7 @@
 # PyTeapotPlus for BNO055 + ESP32 C3 Supermini
 
 ---
-The complete open-source code for testing BNO055 9-Axis absolute orientation IMU Sensor. This Arduino demo is specially made for YouTube channel **牛志伟机器人工作室** @[NiusRobotLab](https://www.youtube.com/@NiusRobotLab)
+The complete open-source code for testing BNO055 9-Axis absolute orientation IMU Sensor. This Arduino demo is specially made for YouTube channel **牛志伟机器人实验室** @[NiusRobotLab](https://www.youtube.com/@NiusRobotLab)
 
 ## In this Repo
 
@@ -60,7 +60,7 @@ The complete open-source code for testing BNO055 9-Axis absolute orientation IMU
 
 > What does 'PyTeapotPlus/3DViewer.py' made for?
 
-You can view 3D models, zoom in/out, rotate using mouse by setting correctly directory to your model.
+You can view 3D models, zoom in/out, rotate using mouse by setting correct directory to your model.
 <br/>
 
 > I cannot see anything using '3DViewer.py' or 'pyteapot_3dm.py'.
