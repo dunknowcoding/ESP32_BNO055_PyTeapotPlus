@@ -283,11 +283,6 @@ def quat_to_ypr(q):
     pitch += 7.4261
     roll += 0.6765
     return [yaw, pitch, roll]  # For BNO055
-    yaw 
-    
-
-
-    
 
 
 if __name__ == '__main__':
